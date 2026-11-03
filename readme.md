@@ -8,7 +8,7 @@
 | **IG Story (Re story / Custom)** | Setiap hari Senin sampai event selesai |
 | **IG Reels** | 1 Reels collaborators (Opsional) |
 | **Publikasi di Platform Lain** | [Lihat bagian Bonus Platform](#bonus-platform-berlaku-untuk-semua-paket) |
-| **Media Partner** | Wajib mencantumkan logo lombarobot sebagai media partner |
+| **Media Partner** | WAJIB mencantumkan logo lombarobot sebagai media partner (bebas pakai logo yang mana) [Download Logo](https://github.com/lombarobot/connect/tree/main/Logo) |
 
 **Layanan Tambahan Berbayar (opsional, di luar harga paket):**
 
@@ -27,7 +27,7 @@
 | **IG Story (Re story / Custom)** | Setiap hari Senin dan  Selasa sampai event selesai |
 | **IG Reels** | 2 Reels collaborators (Opsional)|
 | **Publikasi di Platform Lain** | [Lihat bagian Bonus Platform](#bonus-platform-berlaku-untuk-semua-paket) |
-| **Media Partner** | Wajib mencantumkan logo lombarobot sebagai media partner |
+| **Media Partner** | WAJIB mencantumkan logo lombarobot sebagai media partner (bebas pakai logo yang mana) [Download Logo](https://github.com/lombarobot/connect/tree/main/Logo) |
 
 **Layanan Tambahan Berbayar (opsional, di luar harga paket):**
 
@@ -47,17 +47,13 @@
 | **IG Highlight** | Sampai event selesai |
 | **IG Reels** | 4 Reels collaborators (Opsional) |
 | **Publikasi di Platform Lain** | [Lihat bagian Bonus Platform](#bonus-platform-berlaku-untuk-semua-paket) |
-| **Media Partner** | Wajib mencantumkan logo lombarobot sebagai media partner |
+| **Media Partner** | WAJIB mencantumkan logo lombarobot sebagai media partner (bebas pakai logo yang mana) [Download Logo](https://github.com/lombarobot/connect/tree/main/Logo) |
 
 **Layanan Tambahan Berbayar (opsional, di luar harga paket):**
 
 | Layanan | Harga |
 |---|---|
 | **Pin POST** | IDR 70.000 untuk maksimal 60 hari |
-
----
-
-Logo lombarobot.id untuk Paket MEDIA PARTNER dapat diunduh melalui tautan berikut : [link](https://github.com/lombarobot/connect/tree/main/Logo)
 
 ---
 
