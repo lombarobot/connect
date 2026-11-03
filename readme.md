@@ -92,7 +92,7 @@ Layanan promosi berbayar per item (tanpa paket media partner).
 | **WA Channel lombarobot.id** | [Gabung WA Channel](https://chat.whatsapp.com/GjHak4JAenlJtGwu63zA6C) |
 | **WA Channel lombapedia.my.id** | [Gabung WA Channel](https://chat.whatsapp.com/GjHak4JAenlJtGwu63zA6C) |
 | **Telegram Channel** | [t.me/lombarobot_channel](https://t.me/lombarobot_channel) |
-| **Discord Server** | (link belum tersedia) |
+| **Discord Server** | [discord.gg/sYyXqHdqNG](https://discord.gg/sYyXqHdqNG) |
 | **WEB lombapedia.my.id** | [lombapedia.my.id](https://lombapedia.my.id/) |
 | **IG lombapedia.my.id** | [@lombapedia.my.id](https://www.instagram.com/lombapedia.my.id/) |
 
