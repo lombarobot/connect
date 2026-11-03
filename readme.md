@@ -65,7 +65,7 @@
 
 ## Logo Media Partner
 
-Logo Lombarobot yang wajib dicantumkan dapat diunduh melalui tautan berikut: [lombapedia.my.id](http://lombapedia.my.id)
+Logo Lombarobot yang wajib dicantumkan dapat diunduh melalui tautan berikut: [GitHub - Logo Folder](https://github.com/lombarobot/connect/tree/main/Logo)
 
 ---
 
@@ -129,7 +129,7 @@ Atas nama **Agus Apriantoro**
 
 | Metode | Nomor |
 |---|---|
-| **E-Wallet** (DANA / ShopeePay / LinkAja) | **0898-6478-675** (juga dapat dihubungi via WhatsApp) |
+| **E-Wallet** (DANA / ShopeePay / LinkAja) | **0898-6478-675** ([Chat WhatsApp](https://wa.me/6289864786675)) |
 | **Bank BCA** | **048-173-1291** |
 
 ---
