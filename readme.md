@@ -124,7 +124,3 @@ Atas nama **Agus Apriantoro**
 |---|---|
 | **E-Wallet** (DANA / ShopeePay / LinkAja) | **0898-6478-675** ([Chat WhatsApp](https://wa.me/6289864786675)) |
 | **Bank BCA** | **048-173-1291** |
-
----
-
-*v26.07.20*
