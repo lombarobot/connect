@@ -75,6 +75,7 @@ Layanan promosi berbayar per item tanpa mencantumkan logo lombarobot.id sebagai 
 
 | Platform | Link |
 |---|---|
+| **lombarobot.id - IG Channel** | [@lombarobot.id](https://ig.me/j/AbYOenuPXBAj2-p_/) |
 | **lombarobot.id - Tiktok** | [@lombarobot.id](https://www.tiktok.com/@lombarobot.id) |
 | **lombarobot.id - WA Community** | [Gabung WA Community](https://chat.whatsapp.com/GjHak4JAenlJtGwu63zA6C) |
 | **lombarobot.id - WA Channel** | [Gabung WA Channel](https://chat.whatsapp.com/GjHak4JAenlJtGwu63zA6C) |
@@ -97,7 +98,7 @@ flowchart TD
     D2 --> E{"Jadwal publikasi"}
     E -->|"Sesuai jadwal klien"| F["Publikasi sesuai jadwal yang disepakati"]
     E -->|"Mengikuti jadwal Lombarobot"| G["Publikasi H+1 setelah poster<br/>dan caption final diterima<br/>(untuk antisipasi revisi)"]
-    F --> H(["Kerja sama selesai"])
+    F --> H(["Selesai"])
     G --> H
 ```
 
