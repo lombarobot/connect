@@ -1,4 +1,4 @@
-# Skema Kerjasama
+da# Skema Kerjasama
 
 ## Paket yang disediakan
 
@@ -13,7 +13,7 @@
 - **IG Story (Re story / Custom)** — Setiap hari **Senin**, berulang **setiap minggu** sampai event selesai
 - **IG Reels** — 1 Reels collaborators ([Lihat ketentuan Reels](#ketentuan-reels-collaborators))
 - **Publikasi di Platform Lain** — [Lihat bagian Bonus Platform](#bonus-platform-berlaku-untuk-semua-paket)
-- **Media Partner** — ⚠️ **WAJIB** mencantumkan logo lombarobot.id sebagai media partner. Poster tanpa logo akan dikembalikan untuk revisi. Bebas pakai logo yang mana saja. [Download Logo](logo/) · [Contoh Poster](logo/_contoh/)
+- **Media Partner** — ⚠️ **WAJIB** mencantumkan logo lombarobot.id sebagai media partner. Poster tanpa logo akan dikembalikan untuk revisi. Bebas pakai logo yang mana saja. [Download Logo](download/) · [Contoh Poster](download/_contoh/)
 
 **Layanan Tambahan Berbayar (opsional, di luar harga paket):**
 
@@ -28,7 +28,7 @@
 - **IG Story (Re story / Custom)** — Setiap hari **Senin dan Selasa**, berulang **setiap minggu** sampai event selesai
 - **IG Reels** — 2 Reels collaborators ([Lihat ketentuan Reels](#ketentuan-reels-collaborators))
 - **Publikasi di Platform Lain** — [Lihat bagian Bonus Platform](#bonus-platform-berlaku-untuk-semua-paket)
-- **Media Partner** — ⚠️ **WAJIB** mencantumkan logo lombarobot.id sebagai media partner. Poster tanpa logo akan dikembalikan untuk revisi. Bebas pakai logo yang mana saja. [Download Logo](logo/) · [Contoh Poster](logo/_contoh/)
+- **Media Partner** — ⚠️ **WAJIB** mencantumkan logo lombarobot.id sebagai media partner. Poster tanpa logo akan dikembalikan untuk revisi. Bebas pakai logo yang mana saja. [Download Logo](download/) · [Contoh Poster](download/_contoh/)
 
 **Layanan Tambahan Berbayar (opsional, di luar harga paket):**
 
@@ -44,7 +44,7 @@
 - **IG Highlight** — Sampai event selesai
 - **IG Reels** — 4 Reels collaborators ([Lihat ketentuan Reels](#ketentuan-reels-collaborators))
 - **Publikasi di Platform Lain** — [Lihat bagian Bonus Platform](#bonus-platform-berlaku-untuk-semua-paket)
-- **Media Partner** — ⚠️ **WAJIB** mencantumkan logo lombarobot.id sebagai media partner. Poster tanpa logo akan dikembalikan untuk revisi. Bebas pakai logo yang mana saja. [Download Logo](logo/) · [Contoh Poster](logo/_contoh/)
+- **Media Partner** — ⚠️ **WAJIB** mencantumkan logo lombarobot.id sebagai media partner. Poster tanpa logo akan dikembalikan untuk revisi. Bebas pakai logo yang mana saja. [Download Logo](download/) · [Contoh Poster](download/_contoh/)
 
 **Layanan Tambahan Berbayar (opsional, di luar harga paket):**
 
@@ -64,13 +64,13 @@ Reels collaborators bersifat **opsional bagi klien**: klien yang menentukan apak
 Semua paket **Media Partner** (Paket 1, 2, dan 3) **WAJIB** mencantumkan logo lombarobot.id di poster.
 
 - **Logo** — Bebas pakai logo yang mana saja, pilih yang sesuai dengan warna poster (hitam/merah)
-- **Download Logo** — [Download di sini](logo/)
+- **Download Logo** — [Download di sini](download/)
 - **Ukuran minimum** — Logo harus terlihat jelas, tidak terlalu kecil
 - **Poster tanpa logo** — Akan dikembalikan untuk revisi sebelum publikasi
 
 ### Contoh Poster yang Sudah Benar
 
-Lihat contoh penempatan logo di folder [logo/_contoh/](logo/_contoh/).
+Lihat contoh penempatan logo di folder [download/_contoh/](download/_contoh/).
 
 ## PAID PROMOTE
 
