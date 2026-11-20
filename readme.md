@@ -1,6 +1,13 @@
-# Skema Kerjasama Paket MEDIA PARTNER atau PAID PROMOTE
+# Skema Kerjasama
 
-## Paket MEDIA PARTNER 1 — IDR 10.000
+## Paket yang disediakan
+
+- **MEDIA PARTNER** — Paket promosi dengan harga lebih terjangkau. ⚠️ **WAJIB** mencantumkan logo lombarobot di poster sebagai media partner.
+- **PAID PROMOTE** — Layanan promosi berbayar per item, **tanpa** kewajiban mencantumkan logo lombarobot di poster.
+
+
+
+## MEDIA PARTNER 1 — IDR 10.000
 
 - **IG Feed** — Keep selamanya
 - **IG Story (Re story / Custom)** — Setiap hari Senin sampai event selesai
@@ -15,7 +22,7 @@
 
 
 
-## Paket MEDIA PARTNER 2 — IDR 30.000
+## MEDIA PARTNER 2 — IDR 30.000
 
 - **IG Feed** — Keep selamanya
 - **IG Story (Re story / Custom)** — Setiap hari Senin dan Selasa sampai event selesai
@@ -30,7 +37,7 @@
 
 
 
-## Paket MEDIA PARTNER 3 — IDR 80.000
+## MEDIA PARTNER 3 — IDR 80.000
 
 - **IG Feed** — Keep selamanya
 - **IG Story (Re story / Custom)** — Setiap hari Rabu - Minggu sampai event selesai
@@ -42,34 +49,6 @@
 **Layanan Tambahan Berbayar (opsional, di luar harga paket):**
 
 - **Pin POST** — IDR 70.000 untuk maksimal 60 hari
-
-
-
-## PAID PROMOTE
-
-Layanan promosi berbayar per item tanpa mencantumkan logo lombarobot.id sebagai Media Partner
-
-- **IG Feed** — IDR 20.000 keep selamanya
-- **IG Story (Re story / Custom)** — IDR 10.000 per 24 jam
-- **IG Pin POST** — IDR 100.000 untuk maksimal 30 hari
-- **IG Highlight** — IDR 15.000 sampai event selesai
-- **Publikasi di Platform Lain** — FREE - [Lihat bagian Bonus Platform](#bonus-platform-berlaku-untuk-semua-paket)
-
-
-
-## Bonus Platform (berlaku untuk semua paket)
-
-- **lombarobot.id - IG Channel** — [@lombarobot.id](https://ig.me/j/AbYOenuPXBAj2-p_/)
-- **lombarobot.id - Tiktok** — [@lombarobot.id](https://www.tiktok.com/@lombarobot.id)
-- **lombarobot.id - WA Community** — [Gabung WA Community](https://chat.whatsapp.com/GjHak4JAenlJtGwu63zA6C)
-- **lombarobot.id - WA Channel** — [Gabung WA Channel](https://chat.whatsapp.com/GjHak4JAenlJtGwu63zA6C)
-- **lombarobot.id - Telegram Channel** — [t.me/lombarobot_channel](https://t.me/lombarobot_channel)
-- **lombarobot.id - Discord Server** — [discord.gg/sYyXqHdqNG](https://discord.gg/sYyXqHdqNG)
-- **lombapedia.my.id - WA Channel** — [Gabung WA Channel](https://whatsapp.com/channel/0029VbDam500LKZL7AfXkF2w)
-- **lombapedia.my.id - Website** — [lombapedia.my.id](https://lombapedia.my.id/)
-- **lombapedia.my.id - Instagram** — [@lombapedia.my.id](https://www.instagram.com/lombapedia.my.id/)
-
-
 
 ## ⚠️ Syarat Poster Media Partner
 
@@ -83,6 +62,19 @@ Semua paket **Media Partner** (Paket 1, 2, dan 3) **WAJIB** mencantumkan logo lo
 ### Contoh Poster yang Sudah Benar
 
 Lihat contoh penempatan logo di folder [logo/_contoh/](logo/_contoh/).
+
+## PAID PROMOTE
+
+Layanan promosi berbayar per item tanpa mencantumkan logo lombarobot.id sebagai Media Partner
+
+- **IG Feed** — IDR 20.000 keep selamanya
+- **IG Story (Re story / Custom)** — IDR 10.000 per 24 jam
+- **IG Pin POST** — IDR 100.000 untuk maksimal 30 hari
+- **IG Highlight** — IDR 15.000 sampai event selesai
+- **Publikasi di Platform Lain** — FREE - [Lihat bagian Bonus Platform](#bonus-platform-berlaku-untuk-semua-paket)
+
+
+
 
 
 
@@ -113,6 +105,18 @@ flowchart TD
 
 ❌ **Wajib bayar ulang:**
 - **Poster feed Instagram**
+
+## Bonus Platform (berlaku untuk semua paket)
+
+- **lombarobot.id - IG Channel** — [@lombarobot.id](https://ig.me/j/AbYOenuPXBAj2-p_/)
+- **lombarobot.id - Tiktok** — [@lombarobot.id](https://www.tiktok.com/@lombarobot.id)
+- **lombarobot.id - WA Community** — [Gabung WA Community](https://chat.whatsapp.com/GjHak4JAenlJtGwu63zA6C)
+- **lombarobot.id - WA Channel** — [Gabung WA Channel](https://chat.whatsapp.com/GjHak4JAenlJtGwu63zA6C)
+- **lombarobot.id - Telegram Channel** — [t.me/lombarobot_channel](https://t.me/lombarobot_channel)
+- **lombarobot.id - Discord Server** — [discord.gg/sYyXqHdqNG](https://discord.gg/sYyXqHdqNG)
+- **lombapedia.my.id - WA Channel** — [Gabung WA Channel](https://whatsapp.com/channel/0029VbDam500LKZL7AfXkF2w)
+- **lombapedia.my.id - Website** — [lombapedia.my.id](https://lombapedia.my.id/)
+- **lombapedia.my.id - Instagram** — [@lombapedia.my.id](https://www.instagram.com/lombapedia.my.id/)
 
 
 
