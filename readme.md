@@ -2,8 +2,8 @@
 
 ## Paket yang disediakan
 
-- **MEDIA PARTNER** — Paket promosi dengan harga lebih terjangkau. ⚠️ **WAJIB** mencantumkan logo lombarobot di poster sebagai media partner.
-- **PAID PROMOTE** — Layanan promosi berbayar per item, **tanpa** kewajiban mencantumkan logo lombarobot di poster.
+- [**MEDIA PARTNER**](#media-partner-1--idr-10000) — Paket promosi dengan harga lebih terjangkau. ⚠️ **WAJIB** mencantumkan logo lombarobot di poster sebagai media partner.
+- [**PAID PROMOTE**](#paid-promote) — Layanan promosi berbayar per item, **tanpa** kewajiban mencantumkan logo lombarobot di poster.
 
 
 
