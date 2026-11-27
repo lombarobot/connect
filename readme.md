@@ -1,4 +1,4 @@
-da# Skema Kerjasama
+# Skema Kerjasama
 
 ## Paket yang disediakan
 
