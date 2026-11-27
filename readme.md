@@ -8,14 +8,14 @@
 
 
 ## MEDIA PARTNER 1 — IDR 10.000
-
+**Layanan yang didapat:**
 - **IG Feed** — Keep selamanya
 - **IG Story (Re story / Custom)** — Setiap hari **Senin**, berulang **setiap minggu** sampai event selesai
 - **IG Reels** — 1 Reels collaborators ([Lihat ketentuan Reels](#ketentuan-reels-collaborators))
 - **Publikasi di Platform Lain** — [Lihat bagian Bonus Platform](#bonus-platform-berlaku-untuk-semua-paket)
 - **Media Partner** — ⚠️ **WAJIB** mencantumkan logo lombarobot.id sebagai media partner. Poster tanpa logo akan dikembalikan untuk revisi. Bebas pakai logo yang mana saja. [Download Logo](download/) · [Contoh Poster](download/_contoh/)
 
-**Layanan Tambahan Berbayar (opsional, di luar harga paket):**
+**Layanan tambahan berbayar (opsional, di luar harga paket):**
 
 - **Pin POST** — IDR 90.000 untuk maksimal 30 hari
 - **IG Highlight** — IDR 10.000 sampai event selesai
@@ -23,14 +23,14 @@
 
 
 ## MEDIA PARTNER 2 — IDR 30.000
-
+**Layanan yang didapat:**
 - **IG Feed** — Keep selamanya
 - **IG Story (Re story / Custom)** — Setiap hari **Senin dan Selasa**, berulang **setiap minggu** sampai event selesai
 - **IG Reels** — 2 Reels collaborators ([Lihat ketentuan Reels](#ketentuan-reels-collaborators))
 - **Publikasi di Platform Lain** — [Lihat bagian Bonus Platform](#bonus-platform-berlaku-untuk-semua-paket)
 - **Media Partner** — ⚠️ **WAJIB** mencantumkan logo lombarobot.id sebagai media partner. Poster tanpa logo akan dikembalikan untuk revisi. Bebas pakai logo yang mana saja. [Download Logo](download/) · [Contoh Poster](download/_contoh/)
 
-**Layanan Tambahan Berbayar (opsional, di luar harga paket):**
+**Layanan tambahan berbayar (opsional, di luar harga paket):**
 
 - **Pin POST** — IDR 90.000 untuk maksimal 40 hari
 - **IG Highlight** — IDR 10.000 sampai event selesai
@@ -38,7 +38,7 @@
 
 
 ## MEDIA PARTNER 3 — IDR 80.000
-
+**Layanan yang didapat:**
 - **IG Feed** — Keep selamanya
 - **IG Story (Re story / Custom)** — Setiap hari **Rabu sampai Minggu** (5 hari per minggu), berulang **setiap minggu** sampai event selesai
 - **IG Highlight** — Sampai event selesai
@@ -46,7 +46,7 @@
 - **Publikasi di Platform Lain** — [Lihat bagian Bonus Platform](#bonus-platform-berlaku-untuk-semua-paket)
 - **Media Partner** — ⚠️ **WAJIB** mencantumkan logo lombarobot.id sebagai media partner. Poster tanpa logo akan dikembalikan untuk revisi. Bebas pakai logo yang mana saja. [Download Logo](download/) · [Contoh Poster](download/_contoh/)
 
-**Layanan Tambahan Berbayar (opsional, di luar harga paket):**
+**Layanan tambahan berbayar (opsional, di luar harga paket):**
 
 - **Pin POST** — IDR 70.000 untuk maksimal 60 hari
 
